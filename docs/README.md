@@ -45,4 +45,4 @@ Acceptance criteria for this README
 - Links to each process doc in this folder
 - Explains where to propose changes and how to track action items
 
-If anything above should be shorter, longer, or rephrased, tell me what to change and I’ll update the file text.
+If anything above should be shorter, longer, or rephrased, tell me what to change and I’ll update the file text. Thanks
